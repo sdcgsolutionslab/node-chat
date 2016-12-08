@@ -1,5 +1,7 @@
 applications:
 - name: node-chat
+  host: node-chat
+  domain: helionstackato.com
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 64M
   stack: cflinuxfs2
