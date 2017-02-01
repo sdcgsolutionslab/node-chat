@@ -5,4 +5,3 @@ applications:
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 64M
   stack: cflinuxfs2
-  
