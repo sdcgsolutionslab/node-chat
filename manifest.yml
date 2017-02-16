@@ -1,5 +1,5 @@
 applications:
-- name: node-chat
+- name: node-chat-1
   host: node-chat
   domain: helionstackato.com
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
