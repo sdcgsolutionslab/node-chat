@@ -1,8 +1,9 @@
 applications:
-- name: node-chatTeam12
-  host: node-chatTeam12
+- name: bconode
+  host: bconode
   domain: helionstackato.com
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 64M
   stack: cflinuxfs2
+ 
 
