@@ -1,6 +1,6 @@
 applications:
-- name: node-chatTeam10
-  host: node-chatTeam10
+- name: node-chat
+  host: node-chat
   domain: helionstackato.com
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 64M
